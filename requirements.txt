@@ -1,0 +1,18 @@
+-i https://pypi.org/simple
+asgiref==3.*
+Django==3.1.*
+django-cachalot
+django-crispy-forms
+django-extensions
+django-pg-utils
+django-redis
+djangorestframework
+django-storages
+django-environ
+boto3
+python-dateutil
+psycopg2-binary
+gunicorn>20.0.0
+whitenoise
+whitenoise[brotli]
+redis
