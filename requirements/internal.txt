@@ -1,0 +1,3 @@
+-r ./base-app.txt
+ldap3
+django-python3-ldap

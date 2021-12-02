@@ -16,3 +16,5 @@ gunicorn>20.0.0
 whitenoise
 whitenoise[brotli]
 redis
+
+
