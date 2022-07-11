@@ -17,4 +17,4 @@ whitenoise
 whitenoise[brotli]
 redis
 django-reversion
-
+uvicorn[standard]
