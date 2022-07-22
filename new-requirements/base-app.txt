@@ -1,4 +1,4 @@
-asgiref==3.5
+asgiref>=3.5
 Django>=4
 django-ninja>=0.19.1
 django-cachalot
@@ -18,3 +18,4 @@ whitenoise[brotli]
 redis
 django-reversion
 uvicorn[standard]
+django-vite
