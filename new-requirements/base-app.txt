@@ -1,5 +1,5 @@
 asgiref>=3.5
-Django>=4
+Django>=4,<4.1
 django-ninja>=0.19.1
 django-cachalot
 django-crispy-forms
