@@ -1,3 +1,4 @@
 -r ./base-app.txt
 
 django-microsoft-auth>=2.4.1
+msal
