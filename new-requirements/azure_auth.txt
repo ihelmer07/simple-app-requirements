@@ -1,0 +1,1 @@
+git+https://$CI_JOB_TOKEN@gitlab.com/bostonscientific.com/simple-apps/azure_auth.git@main#egg=azure_auth
