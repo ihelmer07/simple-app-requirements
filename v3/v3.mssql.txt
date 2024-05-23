@@ -1,0 +1,4 @@
+-r ./v3.txt
+
+mssql-django
+pyodbc
