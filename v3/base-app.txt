@@ -16,3 +16,4 @@ django-reversion
 uvicorn[standard]
 django-vite
 requests
+celery
