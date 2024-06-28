@@ -1,4 +1,4 @@
--r ./v3.txt
+-r ./base-app.txt
 
 mssql-django
 pyodbc
